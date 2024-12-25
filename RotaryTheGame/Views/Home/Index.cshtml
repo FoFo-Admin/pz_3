@@ -1,0 +1,120 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model RotaryTheGame.Models.Player
+
+<section>
+    <div id="white-decoration">
+        <div id="white-decore-one" class="decore">
+            <img src="/images/decor-white.svg" alt="" draggable="false">
+        </div>
+        <div id="white-decore-two" class="decore">
+            <img src="/images/decor-white.svg" alt="" draggable="false">
+        </div>
+        <div id="white-decore-three" class="decore">
+            <img src="/images/decor-white.svg" alt="" draggable="false">
+        </div>
+        <div id="white-decore-four" class="decore">
+            <img src="/images/decor-white.svg" alt="" draggable="false">
+        </div>
+
+        <div id="white-section">
+            <div class="inline-block-div">
+                <div class="headline-margin">
+                    <h2>Что за игра?</h2>
+                </div>
+                <div>
+                    <p class="about-text">
+                        "Ротарі" - це гра для компанії від 4 до 16 осіб, де кожному необхідно довести свою корисність, щоб перемогти. 
+                        У цьому вам допоможуть вміле розкриття та приховування фактів про себе, своєчасне використання карток дії, 
+                        майстерність риторики та демагогії, і, звісно, трохи удачі. Гра фактично є варіацією "Бункера" на тематику 
+                        всесвітньої організації Ротарі. Прекрасно підходить для тімбілдінга в Ротарі та Ротаракт клубах.
+                    </p>
+                </div>
+                <div class="btn-margin">
+                    <div class="how-to-play-btn">
+                        <p class="btn-text">Як грати?</p>
+                    </div>
+                </div>
+            </div>
+            <!--
+            -->
+            <div class="inline-block-div big-logo-margin">
+                <img src="/images/big-logo.svg" alt="How to play 'Rotary The Game'">
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="blue">
+    <div id="blue-decoration">
+
+        <div id="blue-decore-one" class="decore">
+            <img src="/images/decore-blue-mini.svg" alt="" draggable="false">
+        </div>
+        <div id="blue-decore-two" class="decore">
+            <img src="/images/decore-blue.svg" alt="" draggable="false">
+        </div>
+        <div id="blue-decore-three" class="decore">
+            <img src="/images/decore-blue.svg" alt="" draggable="false">
+        </div>
+
+        <div id="blue-section">
+            <div id="cards-div">
+                <div class="inline-block-div">
+                    <img src="/images/job.svg" alt="job">
+                </div>
+                <div class="inline-block-div">
+                    <img src="/images/salary.svg" alt="salary">
+                </div>
+                <div class="inline-block-div">
+                    <img src="/images/char.svg" alt="characterisctic">
+                </div>
+                <div class="inline-block-div">
+                    <img src="/images/hobby.svg" alt="hobby">
+                </div>
+                <div class="inline-block-div">
+                    <img src="/images/fact.svg" alt="interesting fact">
+                </div>
+                <div class="inline-block-div">
+                    <img src="/images/item.svg" alt="item">
+                </div>
+                <div class="inline-block-div">
+                    <img src="/images/action.svg" alt="action">
+                </div>
+                <div class="inline-block-div">
+                    <img src="/images/quest.svg" alt="quest">
+                </div>
+                <div class="inline-block-div">
+                    <img src="/images/force.svg" alt="force">
+                </div>
+            </div>
+            <div class="form-div">
+                <form asp-action="Index" method="post">
+                    <div class="form-center">
+                        <div class="headline-margin">
+                            <h2>Ваше ім'я</h2>
+                        </div>
+                    </div>
+                    <div class="form-center">
+                        <input type="text" placeholder="Ім'я" class="name-input" asp-for="Name" id="name">
+                    </div>
+                    <div class="form-center">
+                        <input type="text" placeholder="ABCD" class="code-input" name="code" id="code">
+                        <input type="submit" value="Війти за кодом" class="code-submit" name="codeSubmit" id="codeSubmit">
+                    </div>
+                    <div class="form-center">
+                        <input type="submit" value="Створити гру" class="game-submit" name="gameSubmit" id="gameSubmit">
+                    </div>
+                    <div asp-validation-summary="All" class="form-center error-text"></div>
+                    <div class="form-center">
+                        <p class="players-text">
+                            Ігр онлайн: @ViewData["gamesCount"]
+                        </p>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>

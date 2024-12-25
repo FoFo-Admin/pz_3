@@ -1,0 +1,176 @@
+.inline-block-div{
+    display: inline-block;
+    vertical-align: top;
+    height: inherit;
+}
+
+#logo-image-div{
+    height: inherit;
+    display: flex;
+    align-items: center;
+}
+
+#logo-text-div{
+    height: inherit;
+    display: flex;
+    align-items: center;
+    margin-left: 26px;
+}
+
+.header-text-div{
+    height: inherit;
+    display: flex;
+    align-items: center;
+}
+
+.center-image-div{
+    height: inherit;
+    display: flex;
+    align-items: center;
+}
+
+#header-div-logo{
+    height: inherit;
+}
+
+#header-div-buttons{
+    height: inherit;
+    margin-left: 63px;
+}
+
+.button-margin{
+    margin-left: 36px;
+}
+
+.button-footer-margin{
+    margin-left: 50px;
+}
+
+.decore{
+    position: absolute;
+
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+}
+
+
+#white-decore-one{
+    width: 272.25px;
+    height: 363px;
+    left: 43px;
+    top: -117px;
+}
+#white-decore-two{
+    width: 272.25px;
+    height: 363px;
+    left: 465px;
+    top: 300px;
+}
+#white-decore-three{
+    width: 272.25px;
+    height: 363px;
+    left: 1211px;
+    top: 126.25px;
+    
+    transform: rotate(-90deg);
+}
+#white-decore-four{
+    width: 272.25px;
+    height: 363px;
+    left: 819px;
+    top: 24px;
+}
+#blue-decore-one{
+    width: 271.33px;
+    height: 362.88px;
+    left: 186.75px;
+    top: -140.5px;
+}
+#blue-decore-two{
+    width: 271.33px;
+    height: 362.88px;
+    left: 0px;
+    top: 365.25px;
+    
+    transform: rotate(90deg);
+}
+#blue-decore-three{
+    width: 271.33px;
+    height: 362.88px;
+    left: 1095px;
+    top: 138px;    
+}
+
+.headline-margin{
+    margin-bottom: 32px;
+}
+
+.btn-margin{
+    margin-top: 42px;
+}
+
+.big-logo-margin-host{
+    margin-left: 100px;
+    height: 100%;
+}
+
+.big-logo-margin-player{
+    margin-left: 180px;
+    height: 100%;
+}
+
+.big-logo-margin-waiting{
+    height: 100%;
+    margin-left: 100px;
+}
+
+#cards-div{
+    margin-top: 47px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.form-div{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 45px;
+}
+
+.code-div{
+    margin-left: 23px;
+}
+
+.waiting-margin-div{
+    margin-top: 56px;
+}
+
+.players-margin-div{
+    margin-bottom: 7px;
+}
+
+.waiting-text-width-div{
+    width: 167px;
+}
+
+.margin-players-div{
+    margin-top: 10px;
+}
+
+#footer-div-logo{
+    height: inherit;
+}
+
+#footer-div-buttons{
+    height: inherit;
+    margin-left: 129px;
+}
+
+.center-all-content{
+    display: flex;
+    align-items: center;
+}

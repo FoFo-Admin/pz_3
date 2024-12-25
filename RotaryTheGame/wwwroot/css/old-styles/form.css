@@ -1,0 +1,147 @@
+.how-to-play-btn
+{
+    background: #2162C1;
+    border-radius: 20px;
+    width: 338px;
+    height: 56px;
+
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.cancel-game-btn
+{
+    background: #E1E1E1;
+    border-radius: 20px;
+    width: 222px;
+    height: 56px;
+
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 20px;
+
+    color: #17478F;
+}
+
+.start-game-btn
+{
+    background: #2162C1;
+    border-radius: 20px;
+    width: 222px;
+    height: 56px;
+
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 20px;
+
+    color: #F7A81B;
+
+    margin-left: 48px;
+}
+
+.form-center{
+    width: 520px;
+    display: flex;
+    justify-content: center;
+}
+
+.name-input{
+    width: 518px;
+    height: 56px;
+}
+.code-input{
+    width: 158px;
+    height: 56px;
+}
+.code-submit{
+    background: #17478F;
+    border-radius: 20px;
+    width: 338px;
+    height: 56px;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 20px;
+
+    color: #F7A81B;
+
+    margin-left: 22px;
+}
+
+.game-submit{
+    background: #17478F;
+    border-radius: 20px;
+    width: 518px;
+    height: 56px;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 20px;
+
+    color: #F7A81B;
+}
+
+input{
+    border: none;
+    margin-top: 31px;
+    border-radius: 20px;
+    text-align: center;
+    color: #17478F;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 20px;
+}
+input::placeholder{
+    color: #17478F;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 20px;
+}
+
+input:focus{
+    outline: none;
+}
+
+.waiting-input{
+    width: 248px;
+    height: 56px;
+
+    background-color: #F5F5F5;
+
+    margin-top: 0px;
+}
+
+.delete-btn{
+    border-radius: 20px;
+    width: 56px;
+    height: 56px;
+
+    background: #2162C1;
+
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
+    margin-left: 8px;
+}

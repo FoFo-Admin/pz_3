@@ -1,0 +1,17 @@
+header{
+    background-color: #17478F;
+    justify-content: center;
+    display: flex;
+    width: 100%;
+    position: relative;
+    
+    z-index: 1;
+}
+
+nav{
+    width: 878px;
+    height: 126px;
+    align-items: center;
+
+    display:inherit;
+}

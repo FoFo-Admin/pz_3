@@ -1,0 +1,133 @@
+@font-face {
+    font-family: "Open Sans";
+    src: url("../fonts/OpenSans-Regular.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "Open Sans";
+    src: url("../fonts/OpenSans-Bold.ttf") format("truetype");
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "Neo Sans";
+    src: url("../fonts/Neo_Sans_Medium.ttf") format("truetype");
+    font-weight: medium;
+    font-style: normal;
+    font-display: swap;
+}
+
+#logo-text{
+    font-family: 'Neo Sans';
+    font-style: normal;
+    font-weight: medium;
+    font-size: 32px;
+    line-height: 32px;
+
+    color: #F7A81B;
+}
+
+.header-text{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 20px;
+
+    color: #F7A81B;
+}
+
+h2{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 32px;
+
+    color: #F7A81B;
+}
+
+.about-text{
+    width: 517px;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+
+    color: var(--blue-text-color);
+}
+
+.btn-text{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 20px;
+
+    color: #F7A81B;
+}
+
+.blue-big-text{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 32px;
+
+    color: var(--blue-text-color);
+}
+
+#code-text{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 48px;
+
+    color: #F7A81B;
+}
+
+.ordinary-blue-text{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: bold;
+    font-size: var(--ordinary-text-size);
+    line-height: 19px;
+
+    color: var(--blue-text-color);
+}
+
+.medium-orange-text{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: bold;
+    font-size: var(--medium-text-size);
+    line-height: var(--medium-text-size);
+
+    color: var(--orange-text-color);
+}
+
+.error-text {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 20px;
+    color: #f73a1b;
+    margin-top: 31px;
+}
+
+.players-text {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 20px;
+    color: #F7A81B;
+    margin-top: 31px;
+}

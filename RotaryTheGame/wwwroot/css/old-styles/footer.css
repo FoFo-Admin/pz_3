@@ -1,0 +1,21 @@
+footer{
+    background-color: #17478F;
+    justify-content: center;
+    display: flex;
+    width: 100%;
+    position: relative;
+    
+    z-index: 1;
+}
+
+#footer-div{
+    width: 719px;
+    height: 126px;
+    align-items: center;
+
+    margin-top: 76px;
+    margin-bottom: 76px;
+    
+
+    display:inherit;
+}

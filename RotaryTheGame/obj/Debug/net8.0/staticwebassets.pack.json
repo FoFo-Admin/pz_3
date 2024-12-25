@@ -1,0 +1,453 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RotaryTheGame.bundle.scp.css",
+      "PackagePath": "staticwebassets\\RotaryTheGame.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\cards\\char.json",
+      "PackagePath": "staticwebassets\\cards\\char.json"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\cards\\dia.json",
+      "PackagePath": "staticwebassets\\cards\\dia.json"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\cards\\facts.json",
+      "PackagePath": "staticwebassets\\cards\\facts.json"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\cards\\forces.json",
+      "PackagePath": "staticwebassets\\cards\\forces.json"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\cards\\hobbies.json",
+      "PackagePath": "staticwebassets\\cards\\hobbies.json"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\cards\\items.json",
+      "PackagePath": "staticwebassets\\cards\\items.json"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\cards\\profession.json",
+      "PackagePath": "staticwebassets\\cards\\profession.json"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\cards\\salary.json",
+      "PackagePath": "staticwebassets\\cards\\salary.json"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\cards\\themes.json",
+      "PackagePath": "staticwebassets\\cards\\themes.json"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\css\\div.css",
+      "PackagePath": "staticwebassets\\css\\div.css"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\css\\footer.css",
+      "PackagePath": "staticwebassets\\css\\footer.css"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\css\\form.css",
+      "PackagePath": "staticwebassets\\css\\form.css"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\css\\header.css",
+      "PackagePath": "staticwebassets\\css\\header.css"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\css\\image.css",
+      "PackagePath": "staticwebassets\\css\\image.css"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\css\\old-styles\\div.css",
+      "PackagePath": "staticwebassets\\css\\old-styles\\div.css"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\css\\old-styles\\footer.css",
+      "PackagePath": "staticwebassets\\css\\old-styles\\footer.css"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\css\\old-styles\\form.css",
+      "PackagePath": "staticwebassets\\css\\old-styles\\form.css"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\css\\old-styles\\header.css",
+      "PackagePath": "staticwebassets\\css\\old-styles\\header.css"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\css\\old-styles\\image.css",
+      "PackagePath": "staticwebassets\\css\\old-styles\\image.css"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\css\\old-styles\\reset.css",
+      "PackagePath": "staticwebassets\\css\\old-styles\\reset.css"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\css\\old-styles\\section.css",
+      "PackagePath": "staticwebassets\\css\\old-styles\\section.css"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\css\\old-styles\\text.css",
+      "PackagePath": "staticwebassets\\css\\old-styles\\text.css"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\css\\reset.css",
+      "PackagePath": "staticwebassets\\css\\reset.css"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\css\\section.css",
+      "PackagePath": "staticwebassets\\css\\section.css"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\css\\text.css",
+      "PackagePath": "staticwebassets\\css\\text.css"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\fonts\\Neo_Sans_Medium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Neo_Sans_Medium.ttf"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\fonts\\OpenSans-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans-Bold.ttf"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\fonts\\OpenSans-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans-Regular.ttf"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\images\\Facebook.svg",
+      "PackagePath": "staticwebassets\\images\\Facebook.svg"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\images\\Insta.svg",
+      "PackagePath": "staticwebassets\\images\\Insta.svg"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\images\\Logo.png",
+      "PackagePath": "staticwebassets\\images\\Logo.png"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\images\\Shpak.svg",
+      "PackagePath": "staticwebassets\\images\\Shpak.svg"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\images\\action.svg",
+      "PackagePath": "staticwebassets\\images\\action.svg"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\images\\arrow.svg",
+      "PackagePath": "staticwebassets\\images\\arrow.svg"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\images\\big-logo.svg",
+      "PackagePath": "staticwebassets\\images\\big-logo.svg"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\images\\char.svg",
+      "PackagePath": "staticwebassets\\images\\char.svg"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\images\\decor-white.svg",
+      "PackagePath": "staticwebassets\\images\\decor-white.svg"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\images\\decore-blue-mini.svg",
+      "PackagePath": "staticwebassets\\images\\decore-blue-mini.svg"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\images\\decore-blue.svg",
+      "PackagePath": "staticwebassets\\images\\decore-blue.svg"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\images\\delete.svg",
+      "PackagePath": "staticwebassets\\images\\delete.svg"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\images\\fact.svg",
+      "PackagePath": "staticwebassets\\images\\fact.svg"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\images\\force.svg",
+      "PackagePath": "staticwebassets\\images\\force.svg"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\images\\hobby.svg",
+      "PackagePath": "staticwebassets\\images\\hobby.svg"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\images\\item.svg",
+      "PackagePath": "staticwebassets\\images\\item.svg"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\images\\job.svg",
+      "PackagePath": "staticwebassets\\images\\job.svg"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\images\\quest.svg",
+      "PackagePath": "staticwebassets\\images\\quest.svg"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\images\\salary.svg",
+      "PackagePath": "staticwebassets\\images\\salary.svg"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\images\\small-logo.svg",
+      "PackagePath": "staticwebassets\\images\\small-logo.svg"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\nure\\.Net\\RotaryTheGame\\RotaryTheGame\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.RotaryTheGame.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.RotaryTheGame.props",
+      "PackagePath": "build\\RotaryTheGame.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.RotaryTheGame.props",
+      "PackagePath": "buildMultiTargeting\\RotaryTheGame.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.RotaryTheGame.props",
+      "PackagePath": "buildTransitive\\RotaryTheGame.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

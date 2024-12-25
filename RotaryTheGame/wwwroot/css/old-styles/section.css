@@ -1,0 +1,52 @@
+section{
+    justify-content: center;
+    display: flex;
+    width: 100%;
+}
+
+#blue{
+    background-color: #2162C1; 
+
+    position: relative;
+}
+
+#white-decoration{
+    display: inherit;
+    justify-content: center;
+    position: relative;
+    width: 1440px;
+
+}
+
+#white-section{
+    width: 878px;
+    height: 350px;
+    
+    margin-top: 70px;
+    margin-bottom: 100px;
+
+    
+    z-index: 1;
+}
+
+#white-waiting-section{
+    width: 878px;
+    margin-top: 70px;
+    margin-bottom: 100px;
+
+    
+    z-index: 1;
+}
+
+#blue-decoration{
+    display: inherit;
+    justify-content: center;
+    position: relative;
+    width: 1440px;
+}
+
+#blue-section{
+    width: 878px;
+    height: 600px;
+    z-index: 1;
+}

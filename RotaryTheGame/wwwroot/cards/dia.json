@@ -1,0 +1,152 @@
+[
+  {
+    "Text": "Змінити один факт і рису характеру одному гравцю на вибір",
+    "AffectedAttributes": "",
+    "Actions": []
+  },
+  {
+    "Text": "Змінити професію та зарплату одному гравцю на вибір",
+    "AffectedAttributes": "",
+    "Actions": []
+  },
+  {
+    "Text": "Змінити професію та хобі одному гравцю на вибір",
+    "AffectedAttributes": "",
+    "Actions": []
+  },
+  {
+    "Text": "Змінити хобі та рису характеру одному гравцю на вибір",
+    "AffectedAttributes": "",
+    "Actions": []
+  },
+  {
+    "Text": "Змінити одну характеристику одному гравцю на вибір",
+    "AffectedAttributes": "",
+    "Actions": []
+  },
+  {
+    "Text": "Змінити всім гравцям професію",
+    "AffectedAttributes": "",
+    "Actions": []
+  },
+  {
+    "Text": "Змінити всім гравцям зарплату",
+    "AffectedAttributes": "",
+    "Actions": []
+  },
+  {
+    "Text": "Змінити всім гравцям хобі",
+    "AffectedAttributes": "",
+    "Actions": []
+  },
+  {
+    "Text": "Змінити всім гравцям рису характеру",
+    "AffectedAttributes": "",
+    "Actions": []
+  },
+  {
+    "Text": "Змінити всім гравцям факт №1",
+    "AffectedAttributes": "",
+    "Actions": []
+  },
+  {
+    "Text": "Змінити всім гравцям предмет №1",
+    "AffectedAttributes": "",
+    "Actions": []
+  },
+  {
+    "Text": "Поміняти собі одну характеристику на вибір",
+    "AffectedAttributes": "",
+    "Actions": []
+  },
+  {
+    "Text": "Поміняти собі факт №1 та рису характеру",
+    "AffectedAttributes": "",
+    "Actions": []
+  },
+  {
+    "Text": "Поміняти собі професію та зарплату",
+    "AffectedAttributes": "",
+    "Actions": []
+  },
+  {
+    "Text": "Поміняти собі професію та хобі",
+    "AffectedAttributes": "",
+    "Actions": []
+  },
+  {
+    "Text": "Поміняти собі хобі та рису характеру",
+    "AffectedAttributes": "",
+    "Actions": []
+  },
+  {
+    "Text": "Поміняти собі два предмети",
+    "AffectedAttributes": "",
+    "Actions": []
+  },
+  {
+    "Text": "Зробити одну людину на вибір недоступною для голосування",
+    "AffectedAttributes": "",
+    "Actions": []
+  },
+  {
+    "Text": "Додати третю карту цікавого факту одному гравцеві на вибір, вона відразу відома всім",
+    "AffectedAttributes": "",
+    "Actions": []
+  },
+  {
+    "Text": "Скасувати останню зіграну картку дії",
+    "AffectedAttributes": "",
+    "Actions": []
+  },
+  {
+    "Text": "Змінити завдання",
+    "AffectedAttributes": "",
+    "Actions": []
+  },
+  {
+    "Text": "Обмінятися з будь-яким гравцем на вибір професією",
+    "AffectedAttributes": "",
+    "Actions": []
+  },
+  {
+    "Text": "Обмінятися з будь-яким гравцем на вибір зарплатою (якщо у обох розкрита)",
+    "AffectedAttributes": "",
+    "Actions": []
+  },
+  {
+    "Text": "Обмінятися з будь-яким гравцем на вибір рисою характеру (якщо у обох розкрита)",
+    "AffectedAttributes": "",
+    "Actions": []
+  },
+  {
+    "Text": "Обмінятися з будь-яким гравцем на вибір хобі (якщо у обох розкрито)",
+    "AffectedAttributes": "",
+    "Actions": []
+  },
+  {
+    "Text": "Обмінятися з будь-яким гравцем на вибір одним цікавим фактом (якщо у обох розкритий)",
+    "AffectedAttributes": "",
+    "Actions": []
+  },
+  {
+    "Text": "Додати один предмет",
+    "AffectedAttributes": "",
+    "Actions": []
+  },
+  {
+    "Text": "Вкрасти предмет у одного гравця на вибір",
+    "AffectedAttributes": "",
+    "Actions": []
+  },
+  {
+    "Text": "Замінити останню карту форс-мажору",
+    "AffectedAttributes": "",
+    "Actions": []
+  },
+  {
+    "Text": "Скасувати останню карту форс-мажору",
+    "AffectedAttributes": "",
+    "Actions": []
+  }
+]

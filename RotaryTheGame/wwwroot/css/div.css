@@ -1,0 +1,391 @@
+:root {
+    --game-width: 1058px;
+    --decore-height: 363px;
+    --decore-width: 272.25px;
+    --page-width: 1440px;
+    --small-section-width: 878px;
+    --card-width: 338px;
+    --card-height-small: 56px;
+    --card-height-big: 80px; 
+    --show-width: 68px;
+
+    --ordinary-text-size: 14px;
+    --medium-text-size: 16px;
+
+    --input-color: #F5F5F5;
+    --blue-text-color: #17478F;
+    --orange-text-color: #F7A81B;
+    --blue-color: #2162C1;
+
+    --border-radius-size: 20px;
+
+    --card-margin-top: 12px;
+}
+
+.inline-block-div{
+    display: inline-block;
+    vertical-align: top;
+    height: inherit;
+}
+
+#logo-image-div{
+    height: inherit;
+    display: flex;
+    align-items: center;
+}
+
+#logo-text-div{
+    height: inherit;
+    display: flex;
+    align-items: center;
+    margin-left: 26px;
+}
+
+.header-text-div{
+    height: inherit;
+    display: flex;
+    align-items: center;
+}
+
+.center-image-div{
+    height: inherit;
+    display: flex;
+    align-items: center;
+}
+
+#header-div-logo{
+    height: inherit;
+}
+
+#header-div-buttons{
+    height: inherit;
+    margin-left: 63px;
+}
+
+.button-margin{
+    margin-left: 36px;
+}
+
+.button-footer-margin{
+    margin-left: 50px;
+}
+
+#next-move{
+    margin-left: 70px;
+    border-radius: var(--border-radius-size);
+    width: 158px;
+    height: var(--card-height-big);
+    background-color: var(--blue-color);
+}
+
+.decore{
+    position: absolute;
+
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+}
+
+
+#white-decore-one{
+    width: var(--decore-width);
+    height: var(--decore-height);
+    left: 43px;
+    top: -117px;
+}
+#white-decore-two{
+    width: var(--decore-width);
+    height: var(--decore-height);
+    left: 465px;
+    top: 300px;
+}
+#white-decore-three{
+    width: var(--decore-width);
+    height: var(--decore-height);
+    left: 1211px;
+    top: 126.25px;
+    
+    transform: rotate(-90deg);
+}
+#white-decore-four{
+    width: var(--decore-width);
+    height: var(--decore-height);
+    left: 819px;
+    top: 24px;
+}
+#blue-decore-one{
+    width: var(--decore-width);
+    height: var(--decore-height);
+    left: 186.75px;
+    top: -140.5px;
+}
+#blue-decore-two{
+    width: var(--decore-width);
+    height: var(--decore-height);
+    left: 0px;
+    top: 365.25px;
+    
+    transform: rotate(90deg);
+}
+#blue-decore-three{
+    width: var(--decore-width);
+    height: var(--decore-height);
+    left: 1095px;
+    top: 138px;    
+}
+
+.headline-margin{
+    margin-bottom: 32px;
+}
+
+.btn-margin{
+    margin-top: 42px;
+}
+
+.big-logo-margin-host{
+    margin-left: 100px;
+    height: 100%;
+}
+
+.big-logo-margin-player{
+    margin-left: 180px;
+    height: 100%;
+}
+
+.big-logo-margin-waiting{
+    height: 100%;
+    margin-left: 100px;
+}
+
+#cards-div{
+    margin-top: 47px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.form-div{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 45px;
+}
+
+.card-div-small{
+    width: var(--card-width);
+    height: var(--card-height-small);
+
+    background-color: var(--input-color);
+    color: var(--blue-text-color);
+
+    border-radius: var(--border-radius-size);
+
+    margin-left: 9px;
+    margin-right: 15px;
+
+    padding-left: 11px;
+}
+
+.card-div-big{
+    width: var(--card-width);
+    height: var(--card-height-big);
+
+    background-color: var(--input-color);
+    color: var(--blue-text-color);
+
+    border-radius: var(--border-radius-size);
+
+    margin-left: 9px;
+    margin-right: 15px;
+
+    padding-left: 11px;
+}
+
+.card{
+    margin-top: var(--card-margin-top);
+}
+
+.cards-div{
+    margin-left: 52px;
+}
+
+.card-show-small{
+    width: var(--show-width);
+    height: var(--card-height-small);
+
+    border-radius: var(--border-radius-size);
+
+    background-color: var(--blue-color);
+}
+
+.card-show-big{
+    width: var(--show-width);
+    height: var(--card-height-big);
+
+    border-radius: var(--border-radius-size);
+
+    background-color: var(--blue-color);
+}
+
+.quest-text{
+    width: 420px;
+    margin-left: 14px;
+}
+
+.force-div{
+    margin-top: 36px;
+}
+
+.force-text-div{
+    margin-left: 12px;
+    width: calc(var(--game-width) - 80px - 12px);
+}
+
+.force-div{
+    margin-top: 20px;
+}
+
+.code-div{
+    margin-left: 23px;
+}
+
+.waiting-margin-div{
+    margin-top: 56px;
+}
+
+.players-margin-div{
+    margin-bottom: 7px;
+}
+
+.waiting-text-width-div{
+    width: 167px;
+}
+
+.margin-players-div{
+    margin-top: 10px;
+}
+
+#footer-div-logo{
+    height: inherit;
+}
+
+#footer-div-buttons{
+    height: inherit;
+    margin-left: 129px;
+}
+
+.center-all-content{
+    display: flex;
+    align-items: center;
+}
+
+.absolute-center-all-content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.height-inherit{
+    height: inherit;
+}
+
+
+
+
+
+
+
+
+
+table {
+    margin-top: -100px;
+    border-collapse: separate;
+    border-spacing: 0;
+    width: 100%;
+    font-family: Arial, sans-serif;
+}
+
+th, td {
+    border-right: 2px solid #FFA500;
+    border-bottom: 2px solid #FFA500;
+    padding: 8px;
+    text-align: left;
+    background-color: white;
+}
+
+th {
+    font-weight: normal;
+}
+
+    th:first-child, td:first-child {
+        border-left: 2px solid #FFA500;
+    }
+
+tr:first-child th {
+    border-top: 2px solid #FFA500;
+}
+
+.watch-icon {
+    margin-top: 10px;
+}
+
+ol {
+    list-style: decimal;
+    margin: 0;
+    padding-left: 20px;
+}
+
+li {
+    margin-top: 10px;
+}
+
+.itemcard-text {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 22px;
+    color: var(--blue-text-color);
+}
+
+.vote-btn {
+    border-radius: 7px;
+    width: 26px;
+    height: 26px;
+    background: #2162C1;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-left: 8px;
+}
+
+
+.container-vite {
+    display: flex;
+    gap: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.poll {
+    flex: 1;
+    width: 80%;
+}
+
+.poll-header {
+    margin-top: -100px;
+    margin-bottom: 20px;
+}
+
+
+.vote-item {
+    margin-bottom: 15px;
+}
+
+
+.progress-bar {
+    height: 4px;
+    background-color: #FFA500;
+    margin-top: 5px;
+}
